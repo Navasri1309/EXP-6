@@ -18,13 +18,13 @@ DIAGRAM:
 ![alt text](<Screenshot 2026-02-23 104800.png>)
 
 PROCEDURE: -
-```
-I. Connect the multimeter at the output of kit..
-2. Set the range to a maximum value of 10 mm.
-3. More the gauge from zero to maximum of 20mm.
-4. Value and note the corresponding values of voltages in the multimeter.
-5. Plot the graph between displacement and voltages on the graph paper.
-```
+
+# 1. Connect the multimeter at the output of kit..
+# 2. Set the range to a maximum value of 10 mm.
+# 3. More the gauge from zero to maximum of 20mm.
+# 4. Value and note the corresponding values of voltages in the multimeter.
+# 5. Plot the graph between displacement and voltages on the graph paper.
+
 
 OBSERVATION TABLE
 
